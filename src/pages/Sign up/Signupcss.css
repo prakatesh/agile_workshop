@@ -1,0 +1,44 @@
+.cardsign{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5%;
+    background-color: white;
+    margin-top: 5%;
+    margin-bottom: 25%;
+}
+.signupback{
+    background-color: blueviolet;
+}
+.centersignup
+{
+    text-align: center;
+}
+.spacebws{
+    margin-top: 4%;
+}
+.spacebwsb{
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+.iconsi{
+    margin-left: 2%;  
+}
+.wesi{
+    font-size: 30px;
+}
+.busi 
+{
+    padding: 2%;
+    background-color: blueviolet;
+    color: white;
+    font-size: 19px;
+    border-radius:12px;
+}
+.busis button:hover
+{
+    background-color: rgb(186, 96, 242);
+    color:black;
+}
+.summasi
+{
+    font-size: 20px;
+}

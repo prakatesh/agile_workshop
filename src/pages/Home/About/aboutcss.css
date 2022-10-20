@@ -1,0 +1,42 @@
+body{
+    background-color: #eaf0f6;
+}
+.card
+{
+    box-shadow: 0 .1rem 1rem rgba(0, 0, 0, 0.1);
+    border-radius: 1em;
+    margin-top: 5%;
+    width:100%;
+    padding: 2rem;
+    margin-right: 1%;
+    
+}
+.card-img-top
+{
+    width: 30%;
+    height: 70%;
+}
+.title
+{
+    padding: 0px;
+}
+.card:hover{
+    transform: translateX(10px);
+}
+.title h1{
+    color: blue;
+}
+.location a
+{
+    text-decoration: none;
+    color: rgb(16, 230, 59);
+    font-size: 25px;
+}
+.location:hover{
+    color: blue;
+    transform: translateX(10px);
+}
+.location a:hover{
+    color: blue;
+
+}

@@ -1,0 +1,38 @@
+.backgreen{
+    margin-top: 2%;
+    background-color: rgb(3, 168, 3);
+}
+.centerfooter{
+    text-align: center;
+    color: aliceblue ;
+}
+.divthree{
+    color:white;
+    text-align: center;
+}
+.divthree a
+{
+    color:rgb(246, 227, 227); 
+}
+.extrafooter{
+    background-color: green;
+    text-align: center;
+    padding: 1%;
+}
+.extrafooter a{
+    color: aliceblue;
+    font-size: large;
+}
+.footericon i{
+    border: 1px solid white;
+    padding: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    color: aliceblue;
+}
+.fa-instagram {
+    margin-right: 2%;
+}
+.fa-twitter{
+    margin-right: 2%;
+}
